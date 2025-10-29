@@ -18,7 +18,6 @@ import static org.assertj.core.api.Assertions.assertThat;
     Return an integer denoting the maximum number of palindromes words can contain, after performing some operations.
 
     Note: i and j may be equal during an operation.
-
  */
 public class Maximum_Palindromes_After_Operations_3035 {
     public static int maxPalindromesAfterOperations(String[] words) {
